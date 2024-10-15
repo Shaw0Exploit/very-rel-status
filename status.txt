@@ -3,8 +3,9 @@
 | |_| | | | \ V // _ \   | | | |  \| |   | || | | | |_) |
 |  _  | |_| || |/ ___ \  | |_| | |\  |   | || |_| |  __/ 
 |_| |_|\___/ |_/_/   \_\  \___/|_| \_|   |_| \___/|_|    
-10/15/2024
-WORKING
+
+WORKING AS OF NOW                         
+
 Supported Roblox Version:
 version-eadc3c90bb1a4267
 --https://discord.gg/tnzFTfnA--
